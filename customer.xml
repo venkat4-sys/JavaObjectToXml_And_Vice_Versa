@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer>
+	<addr>
+		<city>HYD</city>
+		<country>INDIA</country>
+		<state>TG</state>
+	</addr>
+	<email>venkatkilari5@gmail.com</email>
+	<id>1</id>
+	<name>venkat</name>
+	<phno>789890678740</phno>
+</customer>
